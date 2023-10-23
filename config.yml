@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: "https://zlsy32900.github.io/lin-zhou/"
 languageCode: en-us
 title: Lin Zhou's Homepage
 theme: "PaperMod"
@@ -8,6 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+canonifyURLs: true
 googleAnalytics: UA-123-45
 
 params:

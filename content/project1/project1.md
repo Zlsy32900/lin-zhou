@@ -14,7 +14,7 @@ categories : "Project"
 # Project Description
 - Controlling a quadruped robot presents a significant challenge in legged robot applications due to its higher number of Degrees of Freedom (DoFs) and the coupling effects between its connectors that cannot be ignored. Moreover, it is essential for the robot to exhibit compliance and effectively interact with its environment. Therefore, the proposed control scheme is as follows.
 
-![Control Structure](/control_structure.jpg)
+![Control Structure](https://raw.githubusercontent.com/Zlsy32900/lin-zhou/main/static/control_structure.jpg)
 
 - However, classical binary gains used in impedance control strategies tend to make the robot overly stiff and incapable of adapting to diverse environments and various disturbances. This occurs because in an impedance control strategy, the damping and stiffness gains have a direct impact on the external forces applied in the robot's feet. This, in turn, affects the robot's overall stability. When external disturbances occur, the system should tend to opt for smaller gain values to minimize the external forces acting on the robot's feet, allowing the robot to maintain contact with the ground for an extended duration. Once stability is restored, it becomes necessary to increase these gains to enhance the precision of task execution. This process cannot be efficiently managed using fixed binary gain settings because the robot cannot be continuously supervised. Consequently, an automated gain adjustment mechanism is necessary.
 

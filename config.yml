@@ -1,0 +1,72 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Lin Zhou's Homepage
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+params:
+  env: production
+  ShowBreadCrumbs: true
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+
+  ShowToc: true
+  TocOpen: true
+
+  cover:
+      hidden: False # hide everywhere but not in structured data
+      hiddenInList: False # hide on list pages and home
+      hiddenInSingle: True # hide on single page
+ 
+  profileMode:
+            enabled: true
+            title: "Hi there, I'm Lin Zhou 👋"
+            imageUrl: /lin.png
+            imageTitle: ProfileMode image
+            imageWidth: 250
+            imageHeight: 250
+            subtitle: "Welcome to my website"
+            buttons:
+                - name : Introduction
+                  url: /introduction
+                - name: Project
+                  url: /project1/project1/
+                - name : CV
+                  url: /cv.pdf
+                
+
+  # homeInfoParams:
+  #         Title: "Hi there, I'm Lin Zhou 👋"
+  #         Content: > 
+  #           - 👩‍🎓 I am currently having my master degree in King's College London
+
+  socialIcons:
+          - name: email
+            url: "lin.zhou@kcl.ac.uk"
+
+menu:
+  main:
+    - identifier: Introduction
+      name: Introduction
+      url: /introduction
+    - identifier: categories
+      name: Project
+      url: /project1/project1
+      weight: 10
+    - identifier: CV
+      name: CV
+      url: /cv.pdf
+
+
+
+
+
+
+

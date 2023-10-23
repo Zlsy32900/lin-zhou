@@ -27,9 +27,9 @@ After training, the final result could be shown in the following.
 
 When comparing the performance of reinforcement learning (RL) with binary gains, it becomes evident that RL outperforms in both anti-disturbance capability and tracking capability. The red line represents the results achieved using RL, while the lines of other colors correspond to those obtained with binary gains. 
 
-![Comparison with different binary in X dimension](/gain_comparison_x.png)
-![Comparison with different binary in Y dimension](/gain_comparison_y.png)
-![Comparison with different binary in Z dimension](/gain_comparison_z.png)
+![Comparison with different binary in X dimension](https://raw.githubusercontent.com/Zlsy32900/lin-zhou/main/static/gain_comparison_x.png)
+![Comparison with different binary in Y dimension](https://raw.githubusercontent.com/Zlsy32900/lin-zhou/main/static/gain_comparison_y.png)
+![Comparison with different binary in Z dimension](https://raw.githubusercontent.com/Zlsy32900/lin-zhou/main/static/gain_comparison_z.png)
 
 ---
 

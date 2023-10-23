@@ -29,7 +29,7 @@ params:
   profileMode:
             enabled: true
             title: "Hi there, I'm Lin Zhou 👋"
-            imageUrl: /lin.png
+            imageUrl: https://raw.githubusercontent.com/Zlsy32900/lin-zhou/main/static/lin.png
             imageTitle: ProfileMode image
             imageWidth: 250
             imageHeight: 250

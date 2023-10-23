@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-canonifyURLs: true
+canonifyURL: true
 googleAnalytics: UA-123-45
 
 params:

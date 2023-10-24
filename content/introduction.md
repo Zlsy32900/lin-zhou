@@ -7,7 +7,7 @@ draft: false
 
 🔬My research interest is in Robotics control, Reinforcement Learning, Construction Robotics
 
-📘My recent thesis is Real-Time Balancing of a Quadrupedal Robot through Optimization of Cartesian Centre-of-Mass Impedances using Reinforcement Learning, if you get interested in it, feel free to click 'Portfolio' at the top menu 👆
+📘My recent thesis is Real-Time Balancing of a Quadrupedal Robot through Optimization of Cartesian Centre-of-Mass Impedances using Reinforcement Learning, if you get interested in it, feel free to click 'Project' at the top menu 👆
 
 If you wanna see more details, please click 'CV' at the top menu
 

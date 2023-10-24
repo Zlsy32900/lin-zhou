@@ -50,7 +50,7 @@ params:
 
   socialIcons:
           - name: email
-            url: "lin.zhou@kcl.ac.uk"
+            url: "mailto:lin.zhou@kcl.ac.uk"
 
 menu:
   main:

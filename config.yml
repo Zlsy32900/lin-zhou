@@ -31,8 +31,8 @@ params:
             title: "Hi there, I'm Lin Zhou 👋"
             imageUrl: https://raw.githubusercontent.com/Zlsy32900/lin-zhou/main/static/lin.png
             imageTitle: ProfileMode image
-            imageWidth: 250
-            imageHeight: 250
+            imageWidth: 200
+            imageHeight: 200
             subtitle: "Welcome to my website"
             buttons:
                 - name : Introduction

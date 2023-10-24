@@ -36,11 +36,11 @@ params:
             subtitle: "Welcome to my website"
             buttons:
                 - name : Introduction
-                  url: /introduction
+                  url: "https://zlsy32900.github.io/lin-zhou/introduction/"
                 - name: Project
-                  url: /project1/project1/
+                  url: "https://zlsy32900.github.io/lin-zhou/project1/project1/"
                 - name : CV
-                  url: /cv.pdf
+                  url: "https://zlsy32900.github.io/lin-zhou/cv.pdf"
                 
 
   # homeInfoParams:

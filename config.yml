@@ -9,7 +9,7 @@ buildFuture: false
 buildExpired: false
 
 canonifyURL: true
-googleAnalytics: UA-123-45
+googleAnalytics: "G-F4G7XN2X4Q"
 
 params:
   env: production
